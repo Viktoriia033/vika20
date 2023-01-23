@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efc8e170-63b1-469b-9f06-b17a42e9b865" name="Changes" comment="" />
+    <list default="true" id="efc8e170-63b1-469b-9f06-b17a42e9b865" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/lesson2/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/test2.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/test2.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2KgxRLtguov969hKTAKBSiHMuvh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -18,9 +32,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "list.type.of.created.stylesheet": "CSS",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -32,7 +48,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674410022048</updated>
+      <workItem from="1674410023246" duration="227000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
