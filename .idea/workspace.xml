@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efc8e170-63b1-469b-9f06-b17a42e9b865" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson3/example.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/style..css" afterDir="false" />
+    <list default="true" id="efc8e170-63b1-469b-9f06-b17a42e9b865" name="Changes" comment="homework3lesson">
+      <change afterPath="$PROJECT_DIR$/lesson4/box1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/box2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/media2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/style2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/style3.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,11 +64,37 @@
       <workItem from="1674649247331" duration="1889000" />
       <workItem from="1674835013221" duration="4516000" />
       <workItem from="1674842421201" duration="1722000" />
-      <workItem from="1674849724135" duration="5495000" />
+      <workItem from="1674849724135" duration="6276000" />
+      <workItem from="1674906351660" duration="2266000" />
+      <workItem from="1674931683347" duration="4969000" />
+      <workItem from="1675155955438" duration="3030000" />
     </task>
+    <task id="LOCAL-00001" summary="homework3lesson">
+      <created>1674855443470</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674855443470</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="homework3lesson" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework3lesson" />
   </component>
 </project>
